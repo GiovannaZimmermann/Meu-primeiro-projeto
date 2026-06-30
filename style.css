@@ -1,20 +1,24 @@
-body{
-    background-color:rgb(255, 249, 210) ;
-    }
-    header{
-        display: flex;
-        }
-        h1{
-            color: rgb(203, 41, 87);
-            font-size: 50px;
-            text-align: center;
-            }
-            p{
-                color: rgb(221, 221, 221);
-                font-size: 30px;
-                text-align: center;
-                }
-                img{
-                    width: 15%;
-                    margin-left: 570px;
-                }
+body {
+    background-color: rgb(255, 249, 210);
+}
+
+header {
+    display: flex;
+}
+
+h1 {
+    color: rgb(203, 41, 87);
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    color: rgb(221, 221, 221);
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    width: 15%;
+    margin-left: 570px;
+}
